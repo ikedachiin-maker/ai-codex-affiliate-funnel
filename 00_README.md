@@ -30,6 +30,7 @@
 - `13_kpi_tracking.csv`: 成果計測シートCSV
 - `14_optin_page_copy.md`: LINE登録ページ用コピー
 - `15_link_replacement_sheet.md`: 差し替えURL一覧
+- `16_mac_mini_setup.md`: Mac mini常時起動運用のセットアップ手順
 - `outputs/codex_ai_affiliate_kpi.xlsx`: KPI管理ワークブック
 
 ## 作成済みAutomation
